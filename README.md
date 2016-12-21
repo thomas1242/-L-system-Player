@@ -1,4 +1,4 @@
-# L-System Player! 3D extension coming soon.
+# L-System Player
 
 
  ![alt tag](images/l-sys.gif)
