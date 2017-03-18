@@ -1,6 +1,6 @@
 # 2D L-System Player
 
-##To compile and run the source code:
+## To compile and run the source code:
 
 ```javascript
 
